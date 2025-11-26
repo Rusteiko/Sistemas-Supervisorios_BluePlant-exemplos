@@ -1,3 +1,5 @@
+assets/SistenaSupervisorio.png
+
 # Sistemas-Supervisorios_BluePlant-exemplos
 
 # 🖥️ Projeto Integrador — Sistemas Supervisórios (SCADA/IHM)
