@@ -3,7 +3,7 @@
 </p>
 
 
-# Sistemas-Supervisorios_BluePlant-exemplos
+# Sistemas-Supervisórios_BluePlant-exemplos
 
 # 🖥️ Projeto Integrador — Sistemas Supervisórios (SCADA/IHM)
 ## Curso Técnico em Mecatrônica — Centro de Formação Profissional  
