@@ -1,1 +1,1 @@
-# Sistemas-Supervis-rios_BluePlant-exemplos
+# Sistemas-Supervisorios_BluePlant-exemplos
