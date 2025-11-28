@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Climatização.png" width="100%" alt="Banner do Repositório">
+</p>
 # ❄️ Situação 3 — Sistema de Climatização (HVAC)  
 Projeto Supervisório no BluePlant
 
