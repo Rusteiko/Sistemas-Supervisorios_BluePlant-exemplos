@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="SistemaSolar.png" width="100%" alt="Banner do Repositório">
+</p>
 # ☀️ Situação 4 — Sistema de Produção de Energia Solar  
 Projeto Supervisório em BluePlant
 
