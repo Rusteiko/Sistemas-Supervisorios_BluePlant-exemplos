@@ -110,7 +110,6 @@ Aqui se encontre os trabalhos que serão disponibilidos pelos alunos no decorrer
 
 ---
 
----
 
 # 🧪 Metodologia da Atividade
 
