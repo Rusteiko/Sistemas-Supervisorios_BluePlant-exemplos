@@ -99,7 +99,6 @@ Cada pasta deste repositório contém:
 
 ---
 
----
 
 # 🏭 Trabalhos disponibilados por alunos
 
