@@ -99,6 +99,16 @@ Cada pasta deste repositório contém:
 
 ---
 
+---
+
+# 🏭 Trabalhos disponibilados por alunos
+
+Com base nas aulas de SCADA, em projetos utilizaram um sistema supervisório para o monitoramento.
+Aqui se encontre os trabalhos que serão disponibilidos pelos alunos no decorrer do tempo:
+
+### **1. BANCADA DE PRESSURIZAÇÃO DE MASSA - Dez_2025**  
+
+---
 
 ---
 
