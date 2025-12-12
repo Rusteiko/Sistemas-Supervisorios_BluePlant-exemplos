@@ -18,7 +18,7 @@ O projeto foi desenvolvido pelos aprendizes do Centro de Formeção Profissional
 
 ---
 
-## 🙌 Agradecimentos
+## 🙌 Agradecimentos aos alunos que disponibizaram o material
 
 **Aprendizes:**  
 Ana Luiza Matos Leite  
