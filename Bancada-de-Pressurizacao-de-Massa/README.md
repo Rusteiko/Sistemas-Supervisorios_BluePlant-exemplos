@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Massa.png" width="350">
+  <img src="Massa.png" width="35">
 </p>
 
 
