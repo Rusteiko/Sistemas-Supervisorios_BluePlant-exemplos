@@ -1,7 +1,12 @@
-# ============================================================
+<p align="center">
+  <img src="Massa.png" width="350">
+</p>
+
+
+# =============================================
 # Conteúdo baseado no banner do projeto: 
 # "Kit Didático para CLP – Bancada de Pressurização de Massa"
-# ============================================================
+# =============================================
 
 readme = """
 # 🔧 Projeto – Kit Didático para CLP  
