@@ -3,22 +3,20 @@
 </p>
 
 
-# =============================================
 # Conteúdo baseado no banner do projeto: 
 # "Kit Didático para CLP – Bancada de Pressurização de Massa"
-# =============================================
 
 readme = """
 # 🔧 Projeto – Kit Didático para CLP  
 ## Bancada de Pressurização de Massa – Dezembro 2025
 
-Este repositório apresenta o projeto desenvolvido para criação de uma **bancada didática para CLP**, construída a partir de uma solução técnica aplicada ao setor de **bombas de pressurização de massa** da área de pintura (ALA XIII).
+Este repositório apresenta o projeto desenvolvido para criação de uma **bancada didática para CLP**, construída a partir de uma solução técnica aplicada ao setor de **bombas de pressurização de massa** da área de pintura.
 
 O projeto foi desenvolvido pelos aprendizes do Centro de Formeção Profissional Volkswagen, com orientação dos professores e apoio da equipe de manutenção.
 
 ---
 
-## 🙌 Agradecimentos aos alunos que disponibizaram o material
+## 🙌 Agradecimentos aos alunos que disponibizaram o material para fins didáticos
 
 **Aprendizes:**  
 Ana Luiza Matos Leite  
@@ -98,8 +96,6 @@ A solução foi criada para:
 - Reduzir manutenção corretiva emergencial  
 - Disponibilizar uma bancada didática realista  
 - Permitir que futuros alunos aprendam com um **problema industrial real**  
-
-
 
 ---
 
