@@ -143,8 +143,7 @@ Cada grupo apresentou:
 
 **Professor Responsável:**  
 **Adilson Cunha Rusteiko**  
-Robótica Industrial • SCADA • Automação • Python  
-SENAI Volkswagen / FIAP  
+Robótica Industrial • SCADA • Automação • Python   
 
 ---
 
